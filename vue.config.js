@@ -1,6 +1,6 @@
 module.exports = {
     outputDir: 'distribution1',
-    publicPath: '/',
+    publicPath: '/extest/',
     devServer: {
         port: 8087
     }
