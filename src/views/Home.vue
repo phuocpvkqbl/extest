@@ -3,7 +3,7 @@
     <input v-model="test"/>
     {{test}}
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Hello the gioi moi"/>
+    <HelloWorld msg="Disable MSG"/>
   </div>
 </template>
 
