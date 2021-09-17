@@ -16,7 +16,7 @@ module.exports = {
                 meta: [
                     {
                       name: 'description',
-                      content: 'A better default template for html-webpack-plugin.'
+                      content: 'Web App about Mars management'
                     }
                   ]
             })
