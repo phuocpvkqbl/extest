@@ -12,7 +12,13 @@ module.exports = {
             new HtmlWebpackPlugin({
                 title: 'Mars',                
                 template: HtmlWebpackTemplate,
-                appMountId: 'app'
+                appMountId: 'app',
+                meta: [
+                    {
+                      name: 'description',
+                      content: 'A better default template for html-webpack-plugin.'
+                    }
+                  ]
             })
           ]
     }
